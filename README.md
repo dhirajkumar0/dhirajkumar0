@@ -1,5 +1,12 @@
+<b>Hi there !  I am Dhiraj Kumar !</b>
+
 [![MasterHead](https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966)]
+
+<p>An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.Now I am looking for an opportunity as a full stack web developer with room to grow and learn.</p>
+</br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 # 💫 About Me:
 🌍  I'm Full Stack Developer based in Bihar, India<br>🔭 I’m currently working on various React Applications.<br>🌱 I’m currently learning MERN Stacks, Data Structures & Algorithms.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤔 I’m looking for help with developing web apps.<br>👨‍💻 All of my projects are available at My Portfolio<br>📫 How to reach me kumardhirak259@gmail.com<br>⚡ Fun fact: Don't stop until you are proud.<br>💬 ask me about anything, i am happy to help;
 
